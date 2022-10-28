@@ -1,0 +1,144 @@
+
+body{
+  background: #352f5b;
+  align-items: center;
+  justify-content: center;
+    
+}
+
+/* .grid { display: grid; grid-template-columns: auto auto; } */
+
+/* .cell {
+  width: 10px;
+  height: 10px;
+  background: red;
+  margin-top: auto !important;
+  
+  
+} */
+
+
+/* .content {
+  display: grid;
+  padding: 0 1rem; } */
+  .top{
+    text-align: center;
+    justify-content: center;
+  }
+
+ 
+  .hidden { display: none}
+
+  #grid{
+    
+    
+    justify-content: center;
+
+  }
+
+
+
+  .box {
+    align-self: center;
+    
+      /* background: #9E9E9E; */
+      background: #423a6f;
+      border: black 1px solid;
+      width: 100px;
+      height: 100px;
+      margin-left: 0 auto;
+      margin-top: 0;
+      cursor: pointer;
+      display: inline-block;
+      vertical-align: middle;
+
+      justify-content: center;
+      text-align: center;
+      position: relative;
+  }
+
+  .row {
+      display: flex;
+      vertical-align: middle;
+      
+      width:100%;
+      justify-content: center;
+      text-align: center;
+  }
+  
+  .guess{
+
+    padding: 0.5rem; 
+    padding-left: 1.5rem;
+    padding-right: 1.5rem; 
+    margin-left: 0.5rem; 
+    color: #ffffff; 
+    border-width: 2px; 
+    border-color: #ffffff; 
+
+
+  }
+
+  .img{
+    
+    margin: auto;
+  }
+  
+
+ .btn-group{
+  justify-self: center;
+  align-self: center;
+  margin-top: 100px;
+ }
+
+ .start {
+  background-color: #000;
+  color: #fff;
+  
+  
+  font-size: 1.5rem;
+  padding: 1.2rem 4.5rem;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+
+h1{
+    margin-top: 0.5rem; 
+    margin-bottom: 0.5rem; 
+    font-size: 2.25rem;
+    line-height: 2.5rem; 
+    font-weight: 700; 
+    text-align: center; 
+
+
+}
+
+
+
+
+
+
+
+.btn{
+    display: flex; 
+    padding: 0.5rem; 
+    margin-left: 16rem; 
+    justify-content: center; 
+    align-items: center; 
+    border-radius: 0.5rem; 
+    /* box-shadow: drop-shadow(0 10px 8px rgba(0, 0, 0, 0.04)) drop-shadow(0 4px 3px rgba(0, 0, 0, 0.1));  */
+} 
+.t{
+  margin-left: 1rem; 
+  text-align: center; 
+  border-color: #000000; 
+}
+.lab {
+  margin-top: 200px;
+  font-size: 2.5rem;
+}
+
+
+  
+
